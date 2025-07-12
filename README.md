@@ -8,14 +8,14 @@ A stunning, modern, and highly functional todo list application built with Flutt
 
 ## 📸 Screenshots
 
-<div align="center">
+
 ### Home page
   <img src="lib/screenshot/image/homepage.png" alt="Todo App Main Screen" width="300"/>
 ### Adding TO-DO
   <img src="lib/screenshot/image/addingtodo.png" alt="Add Todo Dialog" width="300"/>
 ### Clear the completed task
   <img src="lib/screenshot/image/clearwidget.png" alt="Clear Completed Todos" width="300"/>
-</div>
+
 
 *Beautiful, modern UI with smooth animations and Material 3 design*
 
